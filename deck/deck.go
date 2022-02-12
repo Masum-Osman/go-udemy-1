@@ -9,3 +9,7 @@ func (d deck) print() {
 		fmt.Println(i, card)
 	}
 }
+
+func getNumber() int {
+	return 10
+}
